@@ -1,0 +1,18 @@
+[
+  {
+    "status": "confirmé",
+    "notes": "Confirmé par email"
+  },
+  {
+    "status": "annulé",
+    "notes": "Annulé par le client - raison personnelle"
+  },
+  {
+    "status": "terminé",
+    "notes": "Rendez-vous terminé avec succès"
+  },
+  {
+    "status": "en cours",
+    "notes": "Remis en attente suite à report"
+  }
+]

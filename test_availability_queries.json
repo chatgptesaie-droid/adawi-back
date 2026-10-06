@@ -1,0 +1,27 @@
+[
+  {
+    "start_date": "2025-09-06T12:49:28.353973",
+    "end_date": "2025-09-13T12:49:28.353973",
+    "description": "Semaine 1 - Disponibilités"
+  },
+  {
+    "start_date": "2025-09-13T12:49:28.353973",
+    "end_date": "2025-09-20T12:49:28.353973",
+    "description": "Semaine 2 - Disponibilités"
+  },
+  {
+    "start_date": "2025-09-20T12:49:28.353973",
+    "end_date": "2025-09-27T12:49:28.353973",
+    "description": "Semaine 3 - Disponibilités"
+  },
+  {
+    "start_date": "2025-09-27T12:49:28.353973",
+    "end_date": "2025-10-04T12:49:28.353973",
+    "description": "Semaine 4 - Disponibilités"
+  },
+  {
+    "start_date": "2025-10-04T12:49:28.353973",
+    "end_date": "2025-10-11T12:49:28.353973",
+    "description": "Semaine 5 - Disponibilités"
+  }
+]

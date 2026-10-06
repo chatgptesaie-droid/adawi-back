@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Mise à jour de la description après discussion avec le client",
+    "client_notes": "Client a confirmé sa disponibilité pour la semaine prochaine"
+  },
+  {
+    "status": "confirmé",
+    "vendor_notes": "Rendez-vous confirmé par téléphone"
+  },
+  {
+    "appointment_date": "2025-09-10T14:00:28.352272",
+    "duration_minutes": 90
+  },
+  {
+    "location": "Nouvelle adresse : 25 Rue de la Paix, Paris",
+    "client_notes": "Changement d'adresse demandé par le client"
+  },
+  {
+    "service_type": "Formation Avancée",
+    "title": "Formation Produit - Niveau Expert"
+  }
+]
